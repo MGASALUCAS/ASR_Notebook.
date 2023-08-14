@@ -21,3 +21,4 @@ train_audios.zip - Train the audios you will use to train your model.
 With the notebook given here in the table, I have built the pipeline. But when I finally trained the model, I got no predictions.
 
 
+![Screenshot 2023-08-15 010234](https://github.com/MGASALUCAS/ASR_Notebook./assets/88959075/8240498e-7fbb-468a-9d9b-27ebf5debc9e)
