@@ -7,21 +7,26 @@ The Objective here is to develop a machine learning ASR model capable of accurat
 
 I have 4 files.
 
-- test.csv - This is the dataset to which I will apply your model for testing.
+- test.csv - This is the dataset that will be used for model testing.
 
-- train.csv  - Train contains the target. This is the dataset that you will use to train your model.
+- train.csv  - Train contains the target. This is the dataset that that will be used to train the model.
 
-- test_audios.zip - Test audios you will use to test your model.
+- test_audios.zip - Test audios that will be used to test the model.
 
-- train_audios.zip - Train the audios you will use to train your model.
+- train_audios.zip - Train the audios that will be used to train the model.
 
-##### Step 1:
+### Step 1:
+To start with the problem , I look on data. CSV files and Audio Data. I converted mp3 audio data to wav file format. I thought this being compactible and best format with Machine Learning Algorithm for this. 
 
-##### Step 2:
+### Step 2:
+After uploading csv files we convert them into intergers , then encoding and decoding functions were defined , data were splitted into training and validation.
 
-##### Step 3:
+### Step 3:
+This step we define CTC Loss function , model function after that decoding of test data were defined.
 
-##### Step 4:
+### Step 4:
+
+Model training and after that we check the result using our validation data.
 
 # Progress
 
